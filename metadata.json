@@ -1,0 +1,6 @@
+{
+  "name": "CampusFind AI",
+  "description": "CampusFind AI is a smart college campus lost and found platform using intelligent AI matching, image analysis, and secure verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
